@@ -1,0 +1,37 @@
+<!--
+  ~ Copyright (C) 2021 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Tạp Hóa Bin</string>
+    <string name="sell">Bán</string>
+    <string name="quantity">Số Lượng:</string>
+    <string name="quantity_req">Số Lượng <font color='#FF0000'>*</font></string>
+    <string name="item_name_req">Sản Phẩm <font color='#FF0000'>*</font></string>
+    <string name="item_price_req">Giá <font color='#FF0000'>*</font></string>
+    <string name="save_action">Lưu</string>
+    <string name="item_detail_fragment_title">Chi Tiết Sản Phẩm</string>
+    <string name="add_fragment_title">Thêm Sản Phẩm</string>
+    <string name="edit_fragment_title">Sửa Sản Phẩm</string>
+    <string name="price">Giá</string>
+    <string name="quantity_in_stock">Số Lượng</string>
+    <string name="item">Sản Phẩm</string>
+    <string name="delete">Xóa</string>
+    <string name="delete_question">Bạn Chắc Chắn Muốn Xóa</string>
+    <string name="no">Không</string>
+    <string name="yes">Có</string>
+    <string name="currency_symbol">VND</string>
+    <string name="edit_item">Sửa </string>
+    <string name="add_new_item">Thêm Sản Phẩm Mới</string>
+</resources>
